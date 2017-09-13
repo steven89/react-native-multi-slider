@@ -254,7 +254,7 @@ var Slider = React.createClass({
               >
               <Marker
                 pressed={this.state.twoPressed}
-                value={this.state.valueOne}
+                value={this.state.valueTwo}
                 markerStyle={this.props.markerStyle}
                 pressedMarkerStyle={this.props.pressedMarkerStyle}
                 />
